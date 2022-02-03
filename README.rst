@@ -5,7 +5,7 @@ Ocean Wave Data Analysis
 
 Ocean Wave Data Analysis: Introduction to Time Series Analysis, Signal Processing, and Wave Prediction
 
-figure:: figures/Figure_Book_Coastal.jpg
+.. figure:: figures/Figure_Book_Coastal.jpg
 
 Order at Amazon: https://www.amazon.com/dp/0692109978
 
